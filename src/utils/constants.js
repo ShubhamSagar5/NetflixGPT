@@ -27,4 +27,3 @@ export const SUPPORTED_LANGUAGES = [
 ];
 
 export const OPENAI_API_KEY =process.env.REACT_APP_OPENAI_KEY
-//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
